@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../SQL"
+		},
+		{
+			"path": "../HTML CSS JS"
+		},
+		{
+			"path": "../HTML clone theotim"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML CSS JS"
+	}
+}
